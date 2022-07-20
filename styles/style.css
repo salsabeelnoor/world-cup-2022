@@ -394,6 +394,7 @@ footer hr{
     
 
 }
+/* tablets */
 @media screen and (min-width: 577px) and (max-width: 991px){
     .head-title{
         width: 316px;
