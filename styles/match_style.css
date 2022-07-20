@@ -84,6 +84,7 @@ button:hover{
     padding-left: 10px;
 }
 @media screen and (max-width: 576px){
+    
     .head-title button{
         font-weight: 400;
         font-size: 20px;
